@@ -1,5 +1,6 @@
 # SierpinskiCircles
-Sierpinskis Triangle made out of Circles
+
+[Sierpinskis Triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) made out of Circles
 
 It's nicely animated:
 
